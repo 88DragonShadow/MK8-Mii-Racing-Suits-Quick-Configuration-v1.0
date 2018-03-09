@@ -4,8 +4,9 @@ These portable tools type keygen allow configure and generate quickly the codes 
 ## Editions
 This tool has 2 editions available:
 
-The edition (C) has the availability of generating Cafe Code Type.
-The edition (G) has the availability of generating Gecko Codes.
+Edition (C): this edition has the availability of generating Cafe Code Type.
+
+Edition (G): this edition has the availability of generating Gecko Codes.
 
 ## Design
 The tools have an design animated of gears and includes a custom cursor and background music.
