@@ -1,5 +1,5 @@
 ## Mii Racing Suits Quick Configuration v1.0
-These portable tools type keygen allow configure and generate quickly the codes of [Amiibo Mii Racing Suits Replacement](https://pastebin.com/5Ettd6ps). the codes will be generated in a notepad and can save it anywhere on your PC. all generated codes work in Mario Kart 8 Ver. 4.1.
+These portable tools type keygen allow configure and generate quickly the codes of [Amiibo Mii Racing Suits Replacement](https://pastebin.com/5Ettd6ps). the codes will be generated in a notepad and can save it anywhere on your PC. all codes generated work in Mario Kart 8 Ver. 4.1.
 
 ## Editions
 This tool has 2 editions available:
