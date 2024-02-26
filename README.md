@@ -4,7 +4,7 @@ These portable tools allow configure and generate quickly the codes of [Amiibo M
 ## Editions
 This tool has 2 editions available:
 
-Edition (C): this edition has the availability of generating Cafe Code Type.
+Edition (C): this edition has the availability of generating Cafe Code Types.
 
 Edition (G): this edition has the availability of generating Gecko Codes.
 
